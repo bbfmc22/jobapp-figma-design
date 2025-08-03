@@ -1,2 +1,33 @@
-# jobapp-figma-design
-Figma Prototype, Academic Project
+# JobApp – Protótipo Figma
+
+Este repositório contém o protótipo de uma aplicação de gestão de empregos/estágios, candidaturas e reviews de empresas, desenvolvido como projeto académico.
+
+## 🖌️ Protótipo Figma
+
+📎 [Aceder ao protótipo Figma](https://www.figma.com/design/QlHMM1rtIvAJNU7QXxDCIW/Prototype?node-id=0-1&t=pmfGGxhzSzazHSBg-1)
+## 🧠 Funcionalidades planeadas
+
+- 📋 Lista de ofertas de emprego
+- 📥 Submissão de candidaturas
+- ⭐ Avaliações de empresas
+- 🔍 Filtros e pesquisa
+- 🧾 Formulário sobre experiência na empresa
+- 📄 Recomendações de empregos/estágios consoante o perfil do utilizador
+
+## 📚 Tecnologias previstas (para futura implementação)
+
+- Frontend: React, HTML, CSS
+- Backend: Laravel, MySQL
+- Autenticação e gestão de utilizadores
+- Responsive Design
+
+## 📁 Estrutura
+
+```
+📁 /screenshots
+📄 README.md
+```
+
+## 🎯 Objetivo
+
+Desenvolver uma aplicação intuitiva e moderna para ajudar candidatos a encontrar estágio/emprego, candidatar-se diretamente e partilhar experiências.

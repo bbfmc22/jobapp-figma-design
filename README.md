@@ -21,10 +21,10 @@ Este repositório contém o protótipo de uma aplicação de gestão de empregos
 - Autenticação e gestão de utilizadores
 - Responsive Design
 
-Figma_1.png
-Figma_2.png
-Figma_3.png
-FigmaPrototype.png
+![1](https://github.com/bbfmc22/jobapp-figma-design/blob/main/Figma_1.png)
+![2](https://github.com/bbfmc22/jobapp-figma-design/blob/main/Figma_2.png)
+![3](https://github.com/bbfmc22/jobapp-figma-design/blob/main/Figma_3.png)
+![0](https://github.com/bbfmc22/jobapp-figma-design/blob/main/Figma%20Prototype.png)
 
 
 ## 🎯 Objetivo

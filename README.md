@@ -21,10 +21,10 @@ Este repositório contém o protótipo de uma aplicação de gestão de empregos
 - Autenticação e gestão de utilizadores
 - Responsive Design
 
-screenshots/Figma_1.png
-screenshots/Figma_2.png
-screenshots/Figma_3.png
-screenshots/FigmaPrototype.png
+Figma_1.png
+Figma_2.png
+Figma_3.png
+FigmaPrototype.png
 
 
 ## 🎯 Objetivo

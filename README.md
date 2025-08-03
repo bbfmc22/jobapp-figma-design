@@ -8,11 +8,10 @@ Este repositório contém o protótipo de uma aplicação de gestão de empregos
 ## 🧠 Funcionalidades planeadas
 
 - 📋 Lista de ofertas de emprego
-- 📥 Submissão de candidaturas
 - ⭐ Avaliações de empresas
 - 🔍 Filtros e pesquisa
-- 🧾 Formulário sobre experiência na empresa
-- 📄 Recomendações de empregos/estágios consoante o perfil do utilizador
+- 📥 Formulário sobre experiência na empresa
+- 🧾 Recomendações de empregos/estágios consoante o perfil do utilizador
 
 ## 📚 Tecnologias previstas (para futura implementação)
 
@@ -29,4 +28,4 @@ Este repositório contém o protótipo de uma aplicação de gestão de empregos
 
 ## 🎯 Objetivo
 
-Desenvolver uma aplicação intuitiva e moderna para ajudar candidatos a encontrar estágio/emprego, candidatar-se diretamente e partilhar experiências.
+Desenvolver uma aplicação intuitiva e moderna para ajudar candidatos a encontrar estágios/empregos, candidatar-se diretamente e partilhar experiências.
